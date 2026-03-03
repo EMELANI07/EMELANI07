@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hola viajero 👋
+
+🧩Sobre mi:
+* 🔭 Actualmente soy una estudiante de Sistemas computacionales.
+* 🌱 Estoy cursando 6 semestre de la carrera.
+* 💬 Sigo aprendido Python, C#, HTML, SQL Server, Dart.
+* 📫 Pueden encontrarme como emelani07@gmail.com en Gmail.
+* ⚡Dato curioso: En mi primer Hackathon entre sin saber quien iba a ser mi equipo, solo quería probar y aprender, todo se trata de seguir creciendo y mejorado.
+
 
 <!--
 **EMELANI07/EMELANI07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
